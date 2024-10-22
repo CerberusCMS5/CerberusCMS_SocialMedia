@@ -1,5 +1,7 @@
 Video Hosting :: YouTube
-Banned On 10/21/2024 after uploading the Project History video.
+* Banned On 10/21/2024 After Uploading The Project History Video ( Adult Nudity )
+Note: This is proof that YouTube is actively spying on all accounts and they violate their own policy
+      on uploaded content. Adult Nudity is allowed on YouTube with the 18+ restriction option.
 
 Video Hosting :: Wistia
 * https://www.CerberusCMS5.Wistia.com
@@ -16,3 +18,5 @@ Video Hosting :: Wistia
 
 - Web Application Project History
 * https://CerberusCMS5.Wistia.com/folders/kipkl928sk
+
+
