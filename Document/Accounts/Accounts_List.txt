@@ -6,47 +6,33 @@ Note: This is proof that YouTube is actively spying on all accounts and they vio
 Video Hosting :: Wistia
 * https://www.CerberusCMS5.Wistia.com
 
-- Software Demonstrations - Application Modules
-* https://CerberusCMS5.Wistia.com/folders/f0nrdlmg7a
-
-- Software Demonstrations - Features
-* https://CerberusCMS5.Wistia.com/folders/zi3bnz40fp
-
-- Hardware, Firmware and Software Recommendations
-* https://CerberusCMS5.Wistia.com/folders/87nzop7qg5
-* https://CerberusCMS5.Wistia.com/medias/pt417fyq2j
-
-- Web Application Project History
-* https://CerberusCMS5.Wistia.com/folders/kipkl928sk
-
-Meta Data :: Wistia
-
 Instant Messenger Features:
 
-Messenger Options
+- Messenger Options
 * Create Clear-Text File Instant Messenger Chat
 * Create Encrypted-Text File Instant Messenger Chat
 * Create Clear-Text Database Management System Backed Chat Entry
 * Create Encrypted-Text Database Management System Backed Chat Entry
-* Encryption Options: DES, AES, PGP, BlowFish, Custom Encryption With Custom Encryption Mathematics, More...
+* Encryption Options: DES, AES, PGP, BlowFish, More...
 * Chat Room Entry Password
 * Chat Room Maintenance Password
 * Unique Chat Room Naming
 * Group Chat
 * Person-To-Person ( P2P / Private ) Chat
 
-Messages
-* Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text, Drag-And-Drop Dynamic ( No JavaScript ), More..
+- Messages
+* Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text,
+  Live Voice / Microphone Capture, Live Video Capture, Drag-And-Drop Dynamic of Any File Type ( No JavaScript ), More..
 
-Upload
+- Upload
 * Upload Individual Files To Chat
 * Upload Multiple Files To Chat
 * Support For All File Types
 
-Delete
+- Delete
 * Delete Individual Files That Were Uploaded
 * Delete Individual Chat Message Entries
 * Delete Entire Chat With Maintenance Password
 
-Manage
+- Manage
 * Wipe Entire Chat Room Message Log
