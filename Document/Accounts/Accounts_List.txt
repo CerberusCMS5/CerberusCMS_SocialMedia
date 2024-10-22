@@ -23,30 +23,30 @@ Meta Data :: Wistia
 
 Instant Messenger Features:
 
-- Messenger Options
+Messenger Options
 * Create Clear-Text File Instant Messenger Chat
 * Create Encrypted-Text File Instant Messenger Chat
 * Create Clear-Text Database Management System Backed Chat Entry
 * Create Encrypted-Text Database Management System Backed Chat Entry
-* Encryption Options: DES, AES, PGP, BlowFish, More...
+* Encryption Options: DES, AES, PGP, BlowFish, Custom Encryption With Custom Encryption Mathematics, More...
 * Chat Room Entry Password
 * Chat Room Maintenance Password
 * Unique Chat Room Naming
 * Group Chat
 * Person-To-Person ( P2P / Private ) Chat
 
-- Messages
+Messages
 * Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text, Drag-And-Drop Dynamic ( No JavaScript ), More..
 
-- Upload
+Upload
 * Upload Individual Files To Chat
 * Upload Multiple Files To Chat
 * Support For All File Types
 
-- Delete
+Delete
 * Delete Individual Files That Were Uploaded
 * Delete Individual Chat Message Entries
 * Delete Entire Chat With Maintenance Password
 
-- Manage
+Manage
 * Wipe Entire Chat Room Message Log
