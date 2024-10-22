@@ -29,7 +29,7 @@ with a zero-trust system that rivals the U.S. Government.
 * Create Encrypted-Text File Instant Messenger Chat
 * Create Clear-Text Database Management System Backed Chat Entry
 * Create Encrypted-Text Database Management System Backed Chat Entry
-* Encryption Options: DES, AES, PGP, BlowFish, More...
+* Encryption Options: DES, AES, PGP, BlowFish, Custom Encryption with Custom Encryption Mathematics More...
 * Chat Room Entry Password
 * Chat Room Maintenance Password
 * Unique Chat Room Naming
