@@ -19,4 +19,29 @@ Video Hosting :: Wistia
 - Web Application Project History
 * https://CerberusCMS5.Wistia.com/folders/kipkl928sk
 
+Meta Data :: Wistia
+
+Instant Messenger Features
+
+* Create Clear-Text File Instant Messenger Chat
+* Create Encrypted-Text File Instant Messenger Chat
+* Create Clear-Text Database Management System Backed Chat Entry
+* Create Encrypted-Text Database Management System Backed Chat Entry
+* Encryption Options: DES, AES, PGP, BlowFish, More...
+
+- Messages
+* Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text, More..
+
+- Upload
+* Upload Individual Files To Chat
+* Upload Multiple Files To Chat
+* Support For All File Types
+
+- Delete
+* Delete Individual Files That Were Uploaded
+* Delete Individual Chat Message Entries
+
+- Manage
+* Wipe Entire Chat Room Message Log
+
 
