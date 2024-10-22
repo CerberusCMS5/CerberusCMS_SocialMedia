@@ -14,7 +14,7 @@ We also extended this project to the Hells Angeles Motorcycle Club of Bakersfiel
 This web application project was officially registered on the Unix Registration Platform with the Unix Name: CerberusCMS from Bakersfield, Southern California around 
 the year ~2000-2001. I was taught computer programming from the Internet by a hacker in Western-Europe from the years of 2000 to 2006.
 Now as of the year 2024 the project is around ~250,000 lines of Pure Pre-Hyper-Text-Post-Processor Programming Code and everything is usable directly from
-any web browser from any electronic device at any video resolution.
+any web browser from any electronic device at any video resolution and with JavaScript completely disabled.
 
 ** Application Module :: Instant Messenger
 - Messenger Options
