@@ -6,33 +6,8 @@ Note: This is proof that YouTube is actively spying on all accounts and they vio
 Video Hosting :: Wistia
 * https://www.CerberusCMS5.Wistia.com
 
-Instant Messenger Features:
+- Web Application Project History
+* https://CerberusCMS5.Wistia.com/medias/418c1zyf6n
 
-- Messenger Options
-* Create Clear-Text File Instant Messenger Chat
-* Create Encrypted-Text File Instant Messenger Chat
-* Create Clear-Text Database Management System Backed Chat Entry
-* Create Encrypted-Text Database Management System Backed Chat Entry
-* Encryption Options: DES, AES, PGP, BlowFish, More...
-* Chat Room Entry Password
-* Chat Room Maintenance Password
-* Unique Chat Room Naming
-* Group Chat
-* Person-To-Person ( P2P / Private ) Chat
-
-- Messages
-* Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text,
-  Live Voice / Microphone Capture, Live Video Capture, Drag-And-Drop Dynamic of Any File Type ( No JavaScript ), More..
-
-- Upload
-* Upload Individual Files To Chat
-* Upload Multiple Files To Chat
-* Support For All File Types
-
-- Delete
-* Delete Individual Files That Were Uploaded
-* Delete Individual Chat Message Entries
-* Delete Entire Chat With Maintenance Password
-
-- Manage
-* Wipe Entire Chat Room Message Log
+- Quick Software Demonstrations :: Application Modules
+* https://CerberusCMS5.Wistia.com/folders/f0nrdlmg7a
