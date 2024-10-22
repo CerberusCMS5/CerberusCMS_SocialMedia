@@ -15,8 +15,8 @@ This web application project was officially registered on the Unix Registration 
 the year ~2000-2001. I was taught computer programming from the Internet by a hacker in Western-Europe from the years of 2000 to 2006.
 Now as of the year 2024 the project is around ~250,000 lines of Pure Pre-Hyper-Text-Post-Processor Programming Code and everything is usable directly from
 any web browser from any electronic device at any video resolution and is 100% usable with JavaScript completely disabled. The reason for it to be usable
-without JavaScript is so that the device connecting to it cannot be hacked by a few built-in backdoored JavaScript and HTML functions in the actual JavaScript Scripting Language
-and the HTML Scripting Language, but not in my project itself.
+without JavaScript is so that the device connecting to it cannot be hacked by a few built-in backdoored JavaScript and HTML functions in the actual JavaScript Scripting Language itself
+and the HTML Scripting Language itself, but not in my project programming code itself.
 
 IF development of this web application software project continues it will be the fastest, snappiest and most digitially secure Content Management System out of all other platforms in 5 - 10 years from now
 with a zero-trust system that rivals the U.S. Government.
