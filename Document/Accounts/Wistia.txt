@@ -1,1 +1,33 @@
-...
+Video Hosting :: Wistia
+* https://www.CerberusCMS5.Wistia.com
+
+** Application Module :: Instant Messenger
+
+- Messenger Options
+* Create Clear-Text File Instant Messenger Chat
+* Create Encrypted-Text File Instant Messenger Chat
+* Create Clear-Text Database Management System Backed Chat Entry
+* Create Encrypted-Text Database Management System Backed Chat Entry
+* Encryption Options: DES, AES, PGP, BlowFish, More...
+* Chat Room Entry Password
+* Chat Room Maintenance Password
+* Unique Chat Room Naming
+* Group Chat
+* Person-To-Person ( P2P / Private ) Chat
+
+- Messages
+* Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text,
+  Live Voice / Microphone Capture, Live Video Capture, Drag-And-Drop Dynamic of Any File Type ( No JavaScript ), More..
+
+- Upload
+* Upload Individual Files To Chat
+* Upload Multiple Files To Chat
+* Support For All File Types
+
+- Delete
+* Delete Individual Files That Were Uploaded
+* Delete Individual Chat Message Entries
+* Delete Entire Chat With Maintenance Password
+
+- Manage
+* Wipe The Entire Chat Room Message Log
