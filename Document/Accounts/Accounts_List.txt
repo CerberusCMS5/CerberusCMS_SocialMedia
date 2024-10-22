@@ -9,5 +9,14 @@ Video Hosting :: Wistia
 - Web Application Project History
 * https://CerberusCMS5.Wistia.com/medias/418c1zyf6n
 
-- Quick Software Demonstrations :: Application Modules
+- Software Video Demonstrations :: Application Modules
 * https://CerberusCMS5.Wistia.com/folders/f0nrdlmg7a
+
+- Software Video Demonstrations :: Recommended Hardware, Software and Firmware
+* https://CerberusCMS5.Wistia.com/folders/87nzop7qg5
+
+- Software Video Demonstrations :: Demos
+* https://CerberusCMS5.Wistia.com/folders/zi3bnz40fp
+
+- Software Video Demonstrations :: Documentation
+* https://CerberusCMS5.Wistia.com/folders/8v6eblwohq
