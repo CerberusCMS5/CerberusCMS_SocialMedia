@@ -12,6 +12,7 @@ Video Hosting :: Wistia
 
 - Hardware, Firmware and Software Recommendations
 * https://CerberusCMS5.Wistia.com/folders/87nzop7qg5
+* https://CerberusCMS5.Wistia.com/medias/pt417fyq2j
 
 - Web Application Project History
 * https://CerberusCMS5.Wistia.com/folders/kipkl928sk
