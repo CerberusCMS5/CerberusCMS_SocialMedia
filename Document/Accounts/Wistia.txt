@@ -3,7 +3,7 @@ Video Hosting :: Wistia
 
 ** Web Application Software Project History Video
 - Short Project History Video and Demonstration Video For Cerberus Content Management System
-I thought up Cerberus Content Management System around the year ~2000 after my relative gave me an original IBM Laptop.
+I thought up Cerberus Content Management System around the year ~2000 when I was 13 years old after my relative gave me an original IBM Laptop.
 My step-father Jesus and my mother, the founding members of the Nazi Lowrider Car Club of Kern County, Southern California and of 
 Los Angeles, Southern California wanted me to write the software so that he could use it to sell drug products as well as to communicate with other Nazi Lowriders from the Internet in Bakersfield, Southern California. This gave them an early advantange over enemy gangs. The original system package uploads can still be traced to 
 my addresses in Oildale, Southern California from the years of ~2000 - 2003.
