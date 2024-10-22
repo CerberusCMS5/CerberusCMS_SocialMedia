@@ -21,16 +21,22 @@ Video Hosting :: Wistia
 
 Meta Data :: Wistia
 
-Instant Messenger Features
+Instant Messenger Features:
 
+- Messenger Options
 * Create Clear-Text File Instant Messenger Chat
 * Create Encrypted-Text File Instant Messenger Chat
 * Create Clear-Text Database Management System Backed Chat Entry
 * Create Encrypted-Text Database Management System Backed Chat Entry
 * Encryption Options: DES, AES, PGP, BlowFish, More...
+* Chat Room Entry Password
+* Chat Room Maintenance Password
+* Unique Chat Room Naming
+* Group Chat
+* Person-To-Person ( P2P / Private ) Chat
 
 - Messages
-* Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text, More..
+* Input Types: Copy, Paste, Manually Type, Draw and Convert, Voice-To-Text, Drag-And-Drop Dynamic ( No JavaScript ), More..
 
 - Upload
 * Upload Individual Files To Chat
@@ -40,8 +46,7 @@ Instant Messenger Features
 - Delete
 * Delete Individual Files That Were Uploaded
 * Delete Individual Chat Message Entries
+* Delete Entire Chat With Maintenance Password
 
 - Manage
 * Wipe Entire Chat Room Message Log
-
-
