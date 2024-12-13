@@ -1,3 +1,18 @@
+{{short description|White Supremacist Gang}}
+{{Infobox criminal organization
+| name              = Nazi Lowriders
+| image             = File:Nazi_Lowriders_logo.gif
+| image_size        =  <!--(defaults to 220px)-->
+| caption           = Emblem of the Nazi Lowriders, based on the ''[[Reichsadler]]'' symbol
+| founded           = 1970s
+| founder           =  <!--or | founders = -->
+| named_after       = Acquired From Cripp Wars
+| founding_location = Southern California, United States<ref name="adl"/>
+| years_active      = 1960s – Present-Day
+| territory         = Primarily [[Southern California]]<ref name=adl/>
+| ethnicity         = [[White Americans|White American]]<ref name="cicad.oas.org">{{citation|work=Narcotics Digest Weekly|volume=4|issue=40|date=2005-10-04|publisher=National Drug Intelligence 
+}}
+
 Nazi Lowriders are a criminal syndicate and a Lowrider Car Club based in [[Southern California]]. Nazi Lowriders are also known collectively as '''The NLR''' and are also collectively known as '''The Ride''' of Nazi Lowriders.
 
 ====Origins====
